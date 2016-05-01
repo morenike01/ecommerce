@@ -1,0 +1,5 @@
+warn lvl: 16384 | msg:The Twig_Autoloader class is deprecated since version 1.21 and will be removed in 2.0. Use Composer instead. | file:C:\xampp\Xampp\htdocs\Session\Twig\Autoloader.php | ln:12 2016-04-22
+warn lvl: 16384 | msg:Using Twig_Autoloader is deprecated since version 1.21. Use Composer instead. | file:C:\xampp\Xampp\htdocs\Session\Twig\Autoloader.php | ln:30 2016-04-22
+warn lvl: 16384 | msg:The Twig_Autoloader class is deprecated since version 1.21 and will be removed in 2.0. Use Composer instead. | file:C:\xampp\Xampp\htdocs\Session\Twig\Autoloader.php | ln:12 2016-04-22
+warn lvl: 16384 | msg:Using Twig_Autoloader is deprecated since version 1.21. Use Composer instead. | file:C:\xampp\Xampp\htdocs\Session\Twig\Autoloader.php | ln:30 2016-04-22
+warn lvl: 8192 | msg:mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | file:C:\xampp\Xampp\htdocs\Session\adb.php | ln:66 2016-04-22
