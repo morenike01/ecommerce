@@ -1,0 +1,5 @@
+ErrorDocument 404 /Session/404page.html
+AuthName "Restricted Area"
+AuthType Basic
+AuthuserFile C:\temp\.htpasswd
+require valid-user
